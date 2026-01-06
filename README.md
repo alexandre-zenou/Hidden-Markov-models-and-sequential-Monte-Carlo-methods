@@ -21,7 +21,7 @@ The project is structured in successive steps:
 
 3. **Comparison with Orthogonal MCMC**
 
-4. **SMC² (optional)**
+4. **SMC²**
 
 To simplify the implementation, some parameters may be fixed in intermediate steps in order to reduce the dimensionality of the estimation problem.
 
