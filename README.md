@@ -37,3 +37,4 @@ To simplify the implementation, some parameters may be fixed in intermediate ste
 
 ## Repository structure
 
+Please refer to V5_Hidden.ipynb for our replication
