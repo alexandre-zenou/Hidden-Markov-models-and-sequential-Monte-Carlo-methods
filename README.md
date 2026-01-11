@@ -36,3 +36,4 @@ To simplify the implementation, some parameters may be fixed in intermediate ste
 ## Repository structure
 
 Please refer to Bootstrap_PMMH.ipynb for our implementation of Bootstrap Particle Filter and PMMH (Particle Marginal Metropolis–Hastings).
+Please refer to Orthogonal mcmc.ipynb for our comparaison of the O-MCMC (Orthogonal particle Markov Chain Monte Carlo).
