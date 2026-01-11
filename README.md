@@ -35,4 +35,4 @@ To simplify the implementation, some parameters may be fixed in intermediate ste
 
 ## Repository structure
 
-Please refer to Bootstrap_PMMH.ipynb for our Implementation of Bootstrap Particle Filte and PMMH (Particle Marginal Metropolis–Hastings).
+Please refer to Bootstrap_PMMH.ipynb for our implementation of Bootstrap Particle Filter and PMMH (Particle Marginal Metropolis–Hastings).
