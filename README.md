@@ -21,8 +21,6 @@ The project is structured in successive steps:
 
 3. **Comparison with Orthogonal MCMC**
 
-4. **SMC²**
-
 To simplify the implementation, some parameters may be fixed in intermediate steps in order to reduce the dimensionality of the estimation problem.
 
 ---
@@ -37,4 +35,4 @@ To simplify the implementation, some parameters may be fixed in intermediate ste
 
 ## Repository structure
 
-Please refer to V5_Hidden.ipynb for our replication
+Please refer to Bootstrap_PMMH.ipynb for our Implementation of Bootstrap Particle Filte and PMMH (Particle Marginal Metropolis–Hastings).
