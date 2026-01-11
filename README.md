@@ -1,1 +1,40 @@
-# hidden_markov
+# Hidden Markov Models and Sequential Monte Carlo Methods  
+## Replication of *Fast Filtering with Large Option Panels*
+
+This repository contains a replication project based on the paper:
+
+**Arnaud Dufays, Kris Jacobs, Yuguo Liu, Jeroen Rombouts (2022)**  
+*Fast Filtering with Large Option Panels: Implications for Asset Pricing*  
+March 24, 2022
+
+The objective is to replicate and compare several filtering and parameter estimation methods for the state-space model considered in the paper, using S&P 500 data, within the framework of the Hidden Markov Models and Sequential Monte Carlo Methods course of the M2DS program.
+
+---
+
+## Project objectives
+
+The project is structured in successive steps:
+
+1. **Bootstrap Particle Filter**
+
+2. **PMMH (Particle Marginal Metropolis–Hastings)**
+
+3. **Comparison with Orthogonal MCMC**
+
+4. **SMC²**
+
+To simplify the implementation, some parameters may be fixed in intermediate steps in order to reduce the dimensionality of the estimation problem.
+
+---
+
+## Data
+
+- **S&P 500 data**, publicly available and easy to obtain online.
+- Data sources and preprocessing steps are documented in the repository.
+- Large raw datasets are not committed directly; scripts are provided to download and preprocess the data.
+
+---
+
+## Repository structure
+
+Please refer to V5_Hidden.ipynb for our replication
