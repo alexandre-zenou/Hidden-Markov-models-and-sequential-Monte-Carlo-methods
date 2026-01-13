@@ -15,11 +15,13 @@ The objective is to replicate and compare several filtering and parameter estima
 
 The project is structured in successive steps:
 
-1. **Bootstrap Particle Filter**
+1. **Stochastic Volatility with Correlated Jumps Model**
 
-2. **PMMH (Particle Marginal Metropolis–Hastings)**
+2. **Bootstrap Particle Filter**
 
-3. **Comparison with Orthogonal MCMC**
+3. **PMMH (Particle Marginal Metropolis–Hastings)**
+
+4. **Comparison with Orthogonal MCMC**
 
 To simplify the implementation, some parameters may be fixed in intermediate steps in order to reduce the dimensionality of the estimation problem.
 
