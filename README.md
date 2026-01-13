@@ -41,8 +41,8 @@ Please refer to Bootstrap_PMMH.ipynb for our implementation of Bootstrap Particl
 Please refer to Orthogonal_mcmc_uniform_distribution.ipynb for our implementation of the O-MCMC (Orthogonal particle Markov Chain Monte Carlo) with random parameters.  \
 We also did an implementation of the O-MCMC with parameters near to the ones find in the studied paper in Orthogonal_mcmc_normal_distribution.
 
-Martin Boucher
-Alexandre Zenou
+Martin Boucher,
+Alexandre Zenou,
 Valentin Senaux 
 
 Ecole Polytechnique
