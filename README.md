@@ -7,7 +7,7 @@ This repository contains a replication project based on the paper:
 *Fast Filtering with Large Option Panels: Implications for Asset Pricing*  
 March 24, 2022
 
-The objective is to replicate and compare several filtering and parameter estimation methods for the state-space model considered in the paper, using S&P 500 data, within the framework of the Hidden Markov Models and Sequential Monte Carlo Methods course of the M2DS program.
+The objective is to replicate and compare several filtering and parameter estimation methods for the state-space model considered in the paper, using S&P 500 data, within the framework of the Hidden Markov Models and Sequential Monte Carlo Methods course at Ecole Polytechnique supervised by Nicolas Chopin
 
 ---
 
